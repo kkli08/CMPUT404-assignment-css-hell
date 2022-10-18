@@ -1,0 +1,14 @@
+* {
+    background-color: bisque;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+img {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
