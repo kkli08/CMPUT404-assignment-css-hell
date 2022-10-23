@@ -19,13 +19,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-=================
 gutenberg modifications
 
 - change the background color
 - change the size/color/margin of the text in the paragraph
 - add image to the html
 
-  cite:
-  css import picture format:
-  https://stackoverflow.com/questions/34503609/resize-image-without-distorting-it
+cite:
+css import picture format:
+https://stackoverflow.com/questions/34503609/resize-image-without-distorting-it
