@@ -1,0 +1,23 @@
+* {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(6, 6, 60);
+    background-color: rgba(12, 12, 219, 0.681);
+}
+
+img {
+    display: block;
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+}
+
+div.profile,
+div.masterSkills,
+div.workExperience,
+div.project {
+    background-color: rgba(19, 223, 155, 0.891);
+}
+.bold {
+    font-weight: bold;
+}
